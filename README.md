@@ -4,7 +4,7 @@
 
 I'm a software engineer passionate about cloud computing and web development. I love to explore new technologies and leverage them to solve real-life problems. I am always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nunoguilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nunoguilherme/)](https://www.linkedin.com/in/nunoguilherme/)
+[![Linkedin Badge](https://img.shields.io/badge/-nunoguilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nuno-duarte-b8223115b)](www.linkedin.com/in/nuno-duarte-b8223115b)
 
 ## 🛠️ Languages and Tools
 
