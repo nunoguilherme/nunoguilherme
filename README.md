@@ -4,7 +4,7 @@
 
 I'm a software engineer passionate about cloud computing and web development. I love to explore new technologies and leverage them to solve real-life problems. I am always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nunoguilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nuno-duarte-b8223115b)](www.linkedin.com/in/nuno-duarte-b8223115b)
+[![Linkedin Badge](https://img.shields.io/badge/-nunoguilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuno-duarte-b8223115b/)](https://www.linkedin.com/in/nuno-duarte-b8223115b/)
 
 ## 🛠️ Languages and Tools
 
@@ -34,6 +34,5 @@ A project aimed at showcasing the capabilities of Azure Cloud computing. It prov
 
 ## 🤝 How to Reach Me
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/nunoguilherme/). I'm always open to discussing tech, projects, and opportunities!
-
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/nuno-duarte-b8223115b/). I'm always open to discussing tech, projects, and opportunities!
 
