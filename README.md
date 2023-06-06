@@ -9,6 +9,7 @@ I'm a software engineer passionate about cloud computing and web development. I 
 ## 🛠️ Languages and Tools
 
 * Python
+* Java
 * JavaScript
 * Azure
 * GitHub Actions
